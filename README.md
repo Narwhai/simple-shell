@@ -1,6 +1,4 @@
 Simple Shell Program
 
 Commands include:
-    exit
-    cd
-    history
+    exit, cd, history
